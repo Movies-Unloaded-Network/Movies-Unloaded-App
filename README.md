@@ -1,3 +1,20 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=FF6B00&center=true&vCenter=true&width=560&lines=Movies+Unloaded;Your+cinema+in+your+pocket)](https://movies-unloaded-app.pages.dev/)
+
+[![Version](https://img.shields.io/badge/version-1.0.0-FF6B00?style=for-the-badge)](https://github.com/Movies-Unloaded-Network/Movies-Unloaded-App/releases/tag/v1.0.0)
+[![Platform](https://img.shields.io/badge/platform-Android_8.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Movies-Unloaded-Network/Movies-Unloaded-App/releases)
+[![Stars](https://img.shields.io/github/stars/Movies-Unloaded-Network/Movies-Unloaded-App?style=for-the-badge&logo=github&color=FFB300)](https://github.com/Movies-Unloaded-Network/Movies-Unloaded-App/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/Movies-Unloaded-Network/Movies-Unloaded-App/total?style=for-the-badge&color=0096FF)](https://github.com/Movies-Unloaded-Network/Movies-Unloaded-App/releases)
+
+<br />
+
+[![Download APK](https://img.shields.io/badge/⬇_Download_APK-v1.0.0_(58.7_MB)-E50914?style=for-the-badge)](https://github.com/Movies-Unloaded-Network/Movies-Unloaded-App/releases/download/v1.0.0/movies-unloaded-v1.0.0.apk)
+[![Join Telegram](https://img.shields.io/badge/Join-Telegram_Channel-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/movies_unloaded_network)
+[![Movie Bot](https://img.shields.io/badge/Movie-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Movies_desire_bot)
+
+</div>
+
 # Movies Unloaded
 
 Local-first Android app to browse movies & TV shows — your cinema in your pocket.
